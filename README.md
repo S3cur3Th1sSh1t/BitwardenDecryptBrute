@@ -9,7 +9,7 @@ bash decrypt.sh /path/to/data.json /path/to/wordlist.txt
 
 ![alt text](https://raw.githubusercontent.com/S3cur3Th1sSh1t/BitwardenDecryptBrute/main/Bitwarden_Decrypt.png)
 
-# Original repo README
+# BitwardenDecrypt
 
 Decrypts an encrypted [Bitwarden](https://github.com/bitwarden) data.json file (from the desktop App).  
 You can safely store data.json as an encrypted, offline backup of your vault knowing you will always be able to decrypt it.
